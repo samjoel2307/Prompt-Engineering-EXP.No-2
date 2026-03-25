@@ -1,4 +1,4 @@
-EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
+[Ex2 text summarization across different platforms.pdf](https://github.com/user-attachments/files/26232716/Ex2.text.summarization.across.different.platforms.pdf)EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
 AIM:
 
@@ -21,5 +21,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+[Ex2 text summarization across different platforms.pdf](https://github.com/user-attachments/files/26232729/Ex2.text.summarization.across.different.platforms.pdf)
+
 
 RESULT:
